@@ -5,3 +5,5 @@ FROM animal_outs outs
     ON outs.animal_id = ins.animal_id
 WHERE ins.animal_id IS NULL
 ORDER BY outs.animal_id
+
+# 참고 사이트 https://chanhuiseok.github.io/posts/db-7/
