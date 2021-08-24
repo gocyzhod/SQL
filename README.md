@@ -1,2 +1,2 @@
 # SQL = MySQL
-기본적인 SQL 문제들 ( 프로그래머스 등의 사이트 ) 풀고 기록하는 공간
+Programmers SQL 고득점KIT 문제 (완료)
